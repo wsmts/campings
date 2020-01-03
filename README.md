@@ -1,4 +1,4 @@
-# Campings :camping:
+# Campings
 Alle campings op [Google Maps](https://goo.gl/maps/dnb5gT7vBbji5F5i6)
 ## Belgie
 ### Luxemburg
@@ -7,6 +7,8 @@ Alle campings op [Google Maps](https://goo.gl/maps/dnb5gT7vBbji5F5i6)
 * [Camping TroDoWay](https://www.trodoway.be)
 * [Camping Bertrix](https://www.campingbertrix.be)
 * [Parc La Clusure](https://www.parclaclusure.be)
+* [Camping de la Semois](https://campingdelasemois.be)
+* [Camping Ile de faigneul](https://www.iledefaigneul.com)
 
 ### Luik
 * [Camping Anderegg](http://www.campinganderegg.be): In de Hoge Venen
@@ -21,3 +23,4 @@ Alle campings op [Google Maps](https://goo.gl/maps/dnb5gT7vBbji5F5i6)
 * [Les Escaliers de La Combe](https://www.lesescaliers.com)
 
 ## Duitsland
+* [Landal Warsberg (Camping)](https://www.landal.be/parken/warsberg/camping)
