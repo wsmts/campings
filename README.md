@@ -28,6 +28,7 @@ Grotere campings:
 * [Natuurkampeerterrein Wega](https://www.natuurkampeerterreinweert.nl): Groene boekje nodig
 * [Charme Camping Hartje Groen](https://www.hartjegroen.com)
 * [Het Leenderbos](https://www.logerenbijdeboswachter.nl/kamperen/leenderbos)
+* [Landgoed De Hoevens](https://dehoevens.nl)
 
 ## Frankrijk
 
