@@ -13,6 +13,7 @@ Charmecampings:
 * [Camping TroDoWay](https://www.trodoway.be)
 * [Camping de la Semois](https://campingdelasemois.be)
 * [Camping Ile de faigneul](https://www.iledefaigneul.com)
+* [Camping Les Ochay](http://www.campinglesochay.be/)
 
 Grotere campings:
 
