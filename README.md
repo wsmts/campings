@@ -22,6 +22,7 @@ Grotere campings:
 ### Luik
 
 * [Camping Anderegg](http://www.campinganderegg.be): In de Hoge Venen
+* [Camping Arkeo](https://nl.arkeo.be): Vlak aan de Amplève, ideaal startpunt voor een fietstocht
 
 ## Nederland
 
