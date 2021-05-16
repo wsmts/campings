@@ -11,10 +11,11 @@ Charmecampings:
 * [Camping Beau Rêve](https://www.camping-beaureve.be)
 * [Camping Tonny](https://www.campingtonny.be)
 * [Camping TroDoWay](https://www.trodoway.be)
-* [Camping de la Semois](https://campingdelasemois.be)
+* ~~[Camping de la Semois](https://campingdelasemois.be)~~
 * [Camping Ile de faigneul](https://www.iledefaigneul.com)
 * [Camping Les Ochay](http://www.campinglesochay.be/)
 * [Pont de Deulin](https://pontdedeulin.be)
+* [Camping MAKA](https://www.campingmaka.be/)
 
 Grotere campings:
 
@@ -31,7 +32,7 @@ Grotere campings:
 * [Natuurkampeerterrein Wega](https://www.natuurkampeerterreinweert.nl): Groene boekje nodig
 * [Charme Camping Hartje Groen](https://www.hartjegroen.com)
 * [Het Leenderbos](https://www.logerenbijdeboswachter.nl/kamperen/leenderbos)
-* [Landgoed De Hoevens](https://dehoevens.nl)
+* :star:[Landgoed De Hoevens](https://dehoevens.nl)
 
 ## Frankrijk
 
